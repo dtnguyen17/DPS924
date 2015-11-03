@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Friends</string>
+
+    <string name="action_main">Main Page</string>
+    <string name="action_help">Help</string>
+    <string name="action_list">Friends List</string>
+    <string name="action_about">About</string>
+
+    <string name="title_activity_friend_list">Friend List</string>
+    <string name="title_activity_friend_details">Friend Details</string>
+
+    <string name="instr">INSTRUCTIONS FOR THIS APP</string>
+    <string name="help">1) Enter a database name.\n2) Press the search button.\n3) Press on a name to view more information.</string>
+
+    <string name="title_about">About</string>
+    <string name="about">Name: Daniel Nguyen\nProgram:BSD\nCourse:DPS924\nStudent#:050118132</string>
+
+    <string name="database_name">Enter the name of your database:</string>
+    <string name="button">Search</string>
+
+    <string name="friends_header">Press a name to view more information:</string>
+    <string name="title_activity_help">Help</string>
+
+</resources>

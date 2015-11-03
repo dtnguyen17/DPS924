@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dtnguyen17.myfriends.Friend_list">
+
+    <!--Source inspiration: https://www.youtube.com/watch?v=EAZv1fP-5TM-->
+    <item
+        android:id="@+id/action_main"
+        android:title="@string/action_main"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+
+</menu>
