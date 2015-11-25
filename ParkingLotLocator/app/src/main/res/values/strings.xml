@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Green P Parking Lot Locator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="addlabel">Address:</string>
+    <string name="ratelabel">Rate:</string>
+    <string name="typelabel">Type of Car Park:</string>
+    <string name="caplabel">Capacity:</string>
+    <string name="oplabel">Payment Options:</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
